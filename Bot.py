@@ -45,7 +45,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 ✅ ᴋᴇᴇᴘꜱ ꜱᴘᴇᴄɪᴀʟ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ
 ✅ ᴏʀɪɢɪɴᴀʟ ꜰᴏʀᴍᴀᴛᴛɪɴɢ ɪɴᴛᴀᴄᴛ 💾
 
-ᴘʀɪᴠᴀᴄʏ ɪɴᴠᴀᴅᴇʀ ᴍᴀᴅᴇ ʙʏ :@peteraintyours
+ᴘʀɪᴠᴀᴄʏ ɪɴᴠᴀᴅᴇʀ ᴍᴀᴅᴇ ʙʏ :@idfcdudee
 """
     await loading_message.edit_text(intro_text)
 
@@ -110,8 +110,8 @@ async def handle_filename(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 f"📝 Characters: {char_count}\n"
                 f"🎯 Formatting: Preserved exactly\n\n"
                 f"All your formatting (spaces, line breaks, indentation) has been maintained!\n"
-                f"File created using @Privacy_invaderbot\n"
-                f"Privacy fucked by @peteraintyours ⚡"
+                f"File created using @Privacy_InvaderRo_bot\n"
+                f"Privacy fucked by @idfcdudee ⚡"
             )
             
             await update.message.reply_document(
